@@ -9,7 +9,8 @@ change? git status to check file to be commited
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help? Braches help to organize different ways of changing particular problems.
 
-How do the diagrams help you visualize the branch structure?
+How do the diagrams help you visualize the branch structure? 
+Diagrams help to track changes made before and after branches creating.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
