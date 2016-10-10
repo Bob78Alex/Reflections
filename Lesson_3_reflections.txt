@@ -11,3 +11,6 @@ Clone and forks are just copies made in remote and local repositories respective
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This is the most effective way to control changes and cooperate with other developers.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It's probably would take a little bit more time to exchange commits over email.
